@@ -40,6 +40,14 @@ body {
   color: white;
 }
 
+.a5 {
+  text-align: center;
+  font-size: 10px;
+  font-family: fot-seurat_pro;
+  color: white;
+  margin-top: 250px;
+}
+
 img {
   width: 200px;
   display: block;
