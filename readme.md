@@ -1,4 +1,4 @@
-##OrangeGreen (bio)
+OrangeGreen (bio)
 
 my first bio page and my first project that I am going to ship on hack club :D
 
