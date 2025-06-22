@@ -1,0 +1,50 @@
+@font-face {
+  font-family: fot-seurat_pro;
+  src: url(/fonts/FOT-Seurat\ Pro\ EB.otf);
+}
+
+body {
+  background-color: black;
+}
+
+.intro {
+  text-align: center;
+  font-family: fot-seurat_pro;
+  font-size: 30px;
+  margin-top: 10px;
+  color: white;
+}
+
+.a1 {
+  text-align: center;
+  font-family: fot-seurat_pro;
+  color: white;
+  margin-top: 75px;
+}
+
+.a2 {
+  text-align: center;
+  font-family: fot-seurat_pro;
+  color: white;
+}
+
+.a3 {
+  text-align: center;
+  font-family: fot-seurat_pro;
+  color: white;
+}
+
+.a4 {
+  text-align: center;
+  font-family: fot-seurat_pro;
+  color: white;
+}
+
+img {
+  width: 200px;
+  display: block;
+  height: 200px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
